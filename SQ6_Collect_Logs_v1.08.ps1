@@ -74,7 +74,6 @@ $ConfFiles = New-Object PSObject -Property @{
     "YSoftSQ-MIG"            = "bin\MigService.exe.config","bin\services\MdnsService.xml"
     "YSoftPS"                = "ps-conf\*.properties","ysoft\*.properties","conf\*.xml"
     "YSoftSQ-JOB-SERVICE"    = "configuration\*.json"
-
     "YSoftSafeQCML"          = "conf\*.conf","conf\*.drl","tomcat\conf\*.xml"
     "YSoftMobilePrintServer" = "Service\conf\*.config"
     "YSoftPaymentSystem"     = "ps-conf\*.properties","ysoft\*.properties","conf\*.xml"
